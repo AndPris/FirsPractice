@@ -1,3 +1,0 @@
-D:/University/Programming/FirstPractice/cmake-build-debug/CMakeFiles/FirstPractice.dir
-D:/University/Programming/FirstPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/University/Programming/FirstPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
