@@ -4,11 +4,11 @@
 int roman(int, int, char);
 
 int main() {
-    int a;
+    int a, b;
 
     //get user's input
     printf("Enter a number: \n");
-    scanf("%d", &a);
+    scanf("%d %d", &a, &b);
 
     //convert into roman
     a = roman(a, 1000, 'M');
