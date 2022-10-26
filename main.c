@@ -8,7 +8,10 @@ int main() {
 
     //get user's input
     printf("Enter a number: \n");
-    scanf("%d", &a);
+    if(!scanf("%d", &a) || a <= 0) {
+        printf("Invalid data");
+        return 0;
+    };
 
     //convert into roman
     a = roman(a, 1000, 'M');
