@@ -5,10 +5,9 @@ int roman(int, int, char);
 
 int main() {
     int a;
-
-    printf("Test branch number 2!\n");
+    printf("Cherry-Pick");
     //get user's input
-    printf("Enter a number test: \n");
+    printf("Enter a number: \n");
     if(!scanf("%d", &a) || a <= 0) {
         printf("Invalid data");
         return 0;
