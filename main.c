@@ -5,7 +5,7 @@ int roman(int, int, char);
 
 int main() {
     int a;
-
+    printf("Test branch!\n");
     //get user's input
     printf("Enter a number: \n");
     if(!scanf("%d", &a) || a <= 0) {
