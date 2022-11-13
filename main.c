@@ -6,7 +6,7 @@ int roman(int, int, char);
 int main() {
 
     int a;
-    printf("test amend");
+    printf("test amend\n");
     //get user's input
     printf("Enter a number: \n");
     if(!scanf("%d", &a) || a <= 0) {
